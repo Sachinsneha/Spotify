@@ -47,12 +47,8 @@ class NewsSongs extends StatelessWidget {
                     child: Container(
                       decoration: BoxDecoration(
                           image: DecorationImage(
-                              image: NetworkImage(AppURLs.coverFirestorage +
-                                  songs[index].artist +
-                                  ' -' +
-                                  songs[index].title +
-                                  '.jpg' +
-                                  AppURLs.mediaAlt))),
+                              image: NetworkImage(
+                                  '${AppURLs.coverFirestorage}${songs[index].artist} -${songs[index].title}.jpg${AppURLs.mediaAlt}'))),
                     ),
                   )
                 ],
