@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506409873122",
+    "project_id": "flutterbackend-60476",
+    "storage_bucket": "flutterbackend-60476.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506409873122:android:8ecf4ea62bcf50bb7778bb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_backend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQo-v1XLdn5vmgnVxljpdyUir2t_YjQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506409873122:android:43ec95b0b1eedd107778bb",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQo-v1XLdn5vmgnVxljpdyUir2t_YjQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
